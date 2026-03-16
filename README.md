@@ -1,5 +1,9 @@
 # Philiprehberger.FluentGuard
 
+[![CI](https://github.com/philiprehberger/dotnet-fluent-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-fluent-guard/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.FluentGuard.svg)](https://www.nuget.org/packages/Philiprehberger.FluentGuard)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-fluent-guard)](LICENSE)
+
 Fluent parameter validation and guard clauses for .NET.
 
 ## Install
