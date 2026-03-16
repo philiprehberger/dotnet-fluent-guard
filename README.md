@@ -88,6 +88,12 @@ string validName = Guard.Against(name, nameof(name)).NullOrWhiteSpace().Value;
 |--------|--------|-------------|
 | `Empty()` | `ArgumentNullException` / `ArgumentException` | Null or has no elements |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.FluentGuard.csproj --configuration Release
+```
+
 ## License
 
 [MIT](LICENSE)
