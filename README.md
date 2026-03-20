@@ -6,7 +6,7 @@
 
 Fluent parameter validation and guard clauses for .NET.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.FluentGuard
@@ -96,4 +96,4 @@ dotnet build src/Philiprehberger.FluentGuard.csproj --configuration Release
 
 ## License
 
-[MIT](LICENSE)
+MIT
