@@ -6,9 +6,9 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.FluentGuard</PackageId>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Fluent parameter validation and guard clauses for .NET</Description>
+    <Description>Fluent parameter validation and guard clauses for .NET.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/philiprehberger/dotnet-fluent-guard</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
