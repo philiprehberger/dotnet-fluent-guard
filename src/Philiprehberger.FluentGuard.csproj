@@ -6,7 +6,7 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.FluentGuard</PackageId>
-    <Version>0.1.6</Version>
+    <Version>0.1.7</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>Fluent parameter validation and guard clauses for .NET.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
